@@ -1,4 +1,5 @@
 ### Hi there 👋
+안녕하세요 **ssafy 8기 광주 1반 정민지**입니다😄
 
 <!--
 **jellyKKing/jellyKKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
