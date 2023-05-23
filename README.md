@@ -1,17 +1,64 @@
-### Hi there 👋
-안녕하세요 **ssafy 8기 광주 1반 정민지**입니다😄
+# [SSAFY] IT포트폴리오 양식_타이틀을 입력해주세요!
 
-<!--
-**jellyKKing/jellyKKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Untitled](%5BSSAFY%5D%20IT%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8_%E1%84%90%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%90%E1%85%B3%E1%86%AF%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A7%E1%86%A8%E1%84%92%E1%85%A2%E1%84%8C%E1%85%AE%202414947825a14f62a4432a0252bae1af/Untitled.png)
 
-Here are some ideas to get you started:
+## Profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- TEL.            010-0000-0000
+- E-MAIL.      ssafy.ssafy.com
+- Blog.          URL
+- Git-hub.     URL
+
+자기소개를 입력해주세요. 자기소개를 입력해주세요. 자기소개를 입력해주세요. 자기소개를 입력해주세요. 자기소개를 입력해주세요. 자기소개를 입력해주세요. 자기소개를 입력해주세요. 자기소개를 입력해주세요. 
+
+## 👨‍💻 **SKILLS**
+
+---
+
+**JavaScript** 🟥🟥🟥⬜⬜
+
+- ES6+ 를 이해하고 이를 활용하여 소규모 프로젝트 진행가능
+- JS기반 프레임워크와 라이브러리 사용가능
+
+**Vue.JS**      🟥🟥🟥🟥⬜
+
+- Life Cycle을 이해하고, Vuex, Vue-router 를 활용하여 소규모 프로젝트 진행 가능
+- 컴포넌트 개념을 이해하고, 재사용을 위한 개발 가능
+
+## 🎓 EXPERIENCE
+
+---
+
+- 2000.00 ~ 현     재    삼성 청년 SW 아카데미 8기 재학중
+- 2000.00 ~ 2000.00    싸피전자 10기 인턴십
+- 2000.00 ~ 2000.00    싸피대학교 컴퓨터 공학과
+
+## 🏆 Awards / Certificates
+
+---
+
+- 2000.00     수상명  (수여기관)
+- 2000.00     자격증명 (수여기관)
+
+## 👨🏻‍💻 Project Summary
+
+---
+
+- 2000.00 ~ 2000.00    프로젝트명
+    - 프로젝트 개요를 간단하게 기재해주세요.
+    - 구현사항을 간단하게 기재해주세요.
+- 2000.00 ~ 2000.00    프로젝트명
+    - 프로젝트 개요를 간단하게 기재해주세요.
+    - 구현사항을 간단하게 기재해주세요.
+
+- 2000.00 ~ 2000.00    프로젝트명
+    - 프로젝트 개요를 간단하게 기재해주세요.
+    - 구현사항을 간단하게 기재해주세요.
+
+## ✨ Project LIST
+
+`**※ 카드를 누르면 상세 내용을 확인하실 수 있습니다.**` 
+
+---
+
+[김싸피의 개발 프로젝트](https://www.notion.so/4eed6518e8aa43979169bf92a2e8d881)
